@@ -1,0 +1,10 @@
+{
+  "port": 8000,
+  "database": {
+    "host": "DATABASE_HOST",
+    "user": "DATABASE_USER",
+    "password": "DATABASE_PASSWORD",
+    "database": "DATABASE_NAME",
+    "connectionLimit": 10
+  }
+}
