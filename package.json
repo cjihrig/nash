@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index",
-    "test": "node node_modules/lab/bin/lab -v -L -t 100"
+    "test": "node node_modules/lab/bin/lab -v -L -t 100 -a code"
   },
   "repository": {
     "type": "git",
